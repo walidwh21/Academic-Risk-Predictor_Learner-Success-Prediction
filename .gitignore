@@ -1,0 +1,25 @@
+# Environments
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local data & artefacts
+*.db
+*.sqlite3
+data/
+reports/model.joblib
+.pytest_cache/
+.ipynb_checkpoints/
