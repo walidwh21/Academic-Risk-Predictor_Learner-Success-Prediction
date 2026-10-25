@@ -24,7 +24,7 @@ Reproducible machine-learning project that flags students who are likely to **fa
 ```bash
 # 1. clone and enter the repository
 git clone https://github.com/walidwh21/Academic-Risk-Predictor_Learner-Success-Prediction
-cd academic-risk-predictor
+cd Academic-Risk-Predictor_Learner-Success-Prediction
 
 # 2. create an environment and install dependencies
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
